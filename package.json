@@ -21,7 +21,7 @@
   "devDependencies": {
     "prettier": "^1.18.2",
     "mem": ">=4.0.0",
-    "lodash": ">=4.17.13"
+    "lodash": ">=4.17.19"
   },
   "repository": {
     "type": "git",
