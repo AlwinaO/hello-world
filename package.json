@@ -13,14 +13,14 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "gatsby": "^2.24.47",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "gatsby": "^2.24.91",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "set-value": "^3.0.2"
   },
   "devDependencies": {
     "lodash": "^4.17.20",
-    "mem": "^6.1.0",
+    "mem": "^6.1.1",
     "prettier": "^1.19.1"
   },
   "repository": {
