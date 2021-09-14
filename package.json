@@ -16,7 +16,7 @@
     "gatsby": "^2.24.91",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "set-value": "^3.0.2"
+    "set-value": "^4.0.1"
   },
   "devDependencies": {
     "lodash": "^4.17.20",
